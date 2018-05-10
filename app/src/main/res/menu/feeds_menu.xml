@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/india"
+        android:title="INDIA" />
+    <item
+        android:id="@+id/world"
+        android:title="WORLD" />
+    <item
+        android:id="@+id/buisness"
+        android:title="BUISNESS" />
+    <item
+        android:id="@+id/sports"
+        android:title="CRICKET" />
+    <item
+        android:id="@+id/tech"
+        android:title="TECH" />
+    <item
+        android:id="@+id/entertainment"
+        android:title="ENTERTAINMENT" />
+    <item
+        android:id="@+id/economics"
+        android:title="ECONOMICS" />
+</menu>
